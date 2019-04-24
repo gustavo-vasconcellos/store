@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+- Support for product review interfaces.
+
 ## [2.12.3] - 2019-04-16
 ### Fixed
 - Fix access `/account` route without any challenge.
